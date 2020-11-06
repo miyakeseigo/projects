@@ -1,3 +1,14 @@
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 20px;
+  text-align: center;
+  width: 600px;
+}
+
 button {
   padding: 10px;
   font-size: 20px;
@@ -17,9 +28,73 @@ footer {
   margin: 10px;
 }
 
-.nav-bar {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 20px;
+#front-page-image {
+  height: auto;
+  width: 50%;
+  border-radius: 5px;
 }
+
+#contact-page {
+  text-align: center;
+}
+
+#contact-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.padding-10 {
+  padding: 10px;
+}
+
+#front-page-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+}
+
+#about-page-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+}
+
+#work-page-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+}
+
+#blog-page-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.current{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  list-style-type: none;
+}
+  
+li {
+  padding: 10px; 
+  text-decoration: none;
+}
+ 
+li a {
+    color: black;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+li a:hover {
+  color: red;
+}
+
