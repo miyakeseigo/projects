@@ -47,6 +47,7 @@ footer {
 
 #resume-button{
   text-align: center;
+  padding: 100px;
 }
 
 .blog-page-image {
@@ -119,9 +120,14 @@ footer {
   padding: 10px;
 }
 
+.about-article{
+  padding: 100px
+}
+
 .my-work{
   max-width: 35%;
-  padding: 10px;
+  padding: 50px;
+  text-align: center;
 }
 
 .placeholder-image{
