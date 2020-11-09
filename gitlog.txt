@@ -1,0 +1,65 @@
+commit d7b1467bf160c2c586c2195232ec0899a7987c15
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Mon Nov 9 16:27:24 2020 +1100
+
+    add SRI
+
+commit e4c35e84b39593f6158708c157ee820916ac94a1
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Sun Nov 8 13:42:03 2020 +1100
+
+    updated skill logos responsive
+
+commit 80b98818a274b15b05fd486bb57146c5def9b800
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Sun Nov 8 11:43:23 2020 +1100
+
+    whole design updated
+
+commit 9cae07276547bc1e6b7fb56f79b7e63ff7df72b4
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Sat Nov 7 16:40:54 2020 +1100
+
+    today's updates
+
+commit f28a8ab08e87c35aa01bce3504b9f6f077e8d911
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Fri Nov 6 17:16:39 2020 +1100
+
+    add pdf file
+
+commit ddd4e73d523538d6ce5c3ccb6375028593bbbd58
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Fri Nov 6 12:05:35 2020 +1100
+
+    updated all pages h1
+
+commit 8ad62efa1fb61fb25901621ebfbc88af493bb229
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Fri Nov 6 11:43:38 2020 +1100
+
+    updated h3 with font size
+
+commit 17efda7165c521f558c2dc02dc8ba20838dd5c85
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Thu Nov 5 12:14:39 2020 +1100
+
+    created readme and liked stylesheet
+
+commit 61614e12f65475ffd13e7bcfef68d26b2017b069
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Thu Nov 5 10:34:40 2020 +1100
+
+    updated h3
+
+commit ea124edbafcc790099833e26ddd12a9f0b212fab
+Author: Seigo Miyake <seigomiyake@Seigos-MacBook-Pro.local>
+Date:   Thu Nov 5 10:00:14 2020 +1100
+
+    add new file
+
+commit 6bff15fc7817608c0ff46de5d79a6c0d24678f8f
+Author: Seigo Miyake <seigomiyake@192-168-1-105.tpgi.com.au>
+Date:   Wed Nov 4 21:35:30 2020 +1100
+
+    add new file
