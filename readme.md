@@ -1,6 +1,5 @@
-#Portfolio Assignment
-- A link (URL) to your published portfolio website
-[Seigo-Portfolio Assignment](https://seigo-portfolio-assignment.netlify.app/)
+# Portfolio Website
+## link to your published portfolio website: (https://seigo-portfolio-assignment.netlify.app/)
 - Alink to your GitHub repo
 [Seigo-GitHub Repo](https://github.com/miyakeseigo/projects.git)
 - Description of your portfolio website, including, 
@@ -9,7 +8,7 @@
     - Functionality / features
 
     - Sitemap
-      ![Sitemap]("sitemap.jpg")
+      ![Sitemap](https://github.com/miyakeseigo/projects/blob/main/img/sitemap.jpg)
     - Screenshots
     - Target audience
       The target ausience for my portfolio website is the employers who would like to hire a web developer or IT professioinal.
