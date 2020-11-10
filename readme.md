@@ -1,8 +1,7 @@
 # Portfolio Website
 ## Links
-*[Seigo's Portfolio Website](https://seigo-portfolio-assignment.netlify.app/)*
-
-*[Seigo's GitHub Repo](https://github.com/miyakeseigo/projects.git)*
+- *[Seigo's Portfolio Website](https://seigo-portfolio-assignment.netlify.app/)*
+- *[Seigo's GitHub Repo](https://github.com/miyakeseigo/projects.git)*
 
 ## Purpose
 The purpose is to show my technical skills, knowledge and the coding work that I have completed to my futuere employers.
