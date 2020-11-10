@@ -7,18 +7,25 @@
 The purpose is to show my technical skills, knowledge and the coding work that I have completed to my futuere employers.
 
 ## Functionality / features
+
 **Home Page**
 This is the landing page when people visits to my portfolio website. There is a navigation bar on top right hand corner. It contains my portrait photo, links to professional accounts such as GitHub, LinkedIn and Twitter. I have originally planned to place nav bar in the centre of page just below the heading but for the sake of simplicity for visitors, it is placed in same for all pages.
+
 **About Me Page**
 I have originally planned to list out my tech skills but I decided to show the image of tech skills so that it will be easier for visitor to see at a glance. I used ``border-radius`` to make the image of waves from square to round shape. 
+
 **Work Page**
 I decided to show all of my portfolio in this page. I have originally planned to summaries my work and study history in this page but they are all written in my resume which is accessable in the bottom of the page. Therefore it is better to show what I can do by making visitor clicking my works and it is more relevant to tech industry.
+
 **Blog Page**
 I used Media Queries ``@media`` and ``flex-direction`` to make it resposive to mobile phone screen. All images will be wrapped and straightend in cloumn. 
+
 **Contact Page**
 This page is simply for visitor to send me a message to reach me. I have placed contact form and submit button so it directly goes to my email inbox.
+
 **Other**
 I have originally wanted to place the contact me button in the bottom of all pages. However I decided not to repeat it as I wanted to keep it simple.  
+
 
 ## Sitemap
 ![Sitemap](/docs/sitemap.jpg)
