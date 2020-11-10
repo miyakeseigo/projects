@@ -1,6 +1,7 @@
 # Portfolio Website
 ## Links
 *[Seigo's Portfolio Website](https://seigo-portfolio-assignment.netlify.app/)*
+
 *[Seigo's GitHub Repo](https://github.com/miyakeseigo/projects.git)*
 
 ## Purpose
