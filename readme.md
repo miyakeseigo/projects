@@ -9,7 +9,7 @@ The purpose is to show my technical skills, knowledge and the coding work that I
 ## Functionality / features
 
 ## Sitemap
-![Sitemap](https://github.com/miyakeseigo/projects/blob/main/img/sitemap.jpg)
+![Sitemap](https://github.com/miyakeseigo/projects/blob/main/docs/sitemap.jpg)
 
 ## Screenshots
      
