@@ -226,8 +226,10 @@ li a {
   }
 
   li a{
-    font-size: 24px;
+    font-size: 22px;
+    padding: 10%;
   }
+
 }
 
 .current{
