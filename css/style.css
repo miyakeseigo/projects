@@ -36,7 +36,7 @@ button {
   background-color: black;
   border: none;
   border-radius: 5px;
-  opacity: 50%;
+  opacity: 100%;
 }
 
 button a{
@@ -44,7 +44,7 @@ button a{
 }
 
 button:hover {
-  opacity: 100%;
+  opacity: 50%;
   transition: 0.3s;
 }
 
@@ -195,6 +195,13 @@ textarea {
 
 nav{
   display: flex;
+  justify-content: space-between;
+}
+
+li a {
+  color: black;
+  font-size: 30px;
+  text-decoration: none;
 }
 
 @media screen and (max-width: 660px) {
@@ -214,10 +221,13 @@ nav{
     width: 300px;
   }
 
-nav{
-  flex-direction: column;
-}
+  nav{
+    flex-direction: column;
+  }
 
+  li a{
+    font-size: 24px;
+  }
 }
 
 .current{
@@ -260,12 +270,6 @@ menu{
   padding: 0;
 }
 
-nav{
-  display: flex;
-  justify-content: space-between;
-
-}
-
 nav img{
   width: 80px;
   height: 80px;
@@ -275,12 +279,6 @@ nav img{
 li {
   padding: 10px; 
   text-decoration: none;
-}
- 
-li a {
-    color: black;
-    font-size: 30px;
-    text-decoration: none;
 }
 
 li a:hover {
