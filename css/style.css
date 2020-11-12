@@ -273,3 +273,15 @@ li a {
 li a:hover {
   color: grey;
 }
+
+/* li img{
+  filter: grayscale(100%)
+} */
+
+/* article img{
+  filter: grayscale(100%)
+} */
+
+/* main img{
+  filter: grayscale(100%)
+} */
