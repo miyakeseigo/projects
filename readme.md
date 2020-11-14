@@ -60,6 +60,22 @@ I have originally wanted to place the contact me button in the bottom of all pag
 ![Blog Page](/docs/blogpage5.png)
 ### Contact Page
 ![Contact Page](/docs/contactpage.png)
+### Mobile View Home Page
+![Home Page](/docs/homepagemobile1.png)
+### Mobile View About Me Page
+![About Page](/docs/aboutpagemobile1.png)
+![About Page](/docs/aboutpagemobile2.png)
+![About Page](/docs/aboutpagemobile3.png)
+### Mobile View Work Page
+![Work Page](/docs/workpagemobile1.png)
+![Work Page](/docs/workpagemobile2.png)
+![Work Page](/docs/workpagemobile3.png)
+### Mobile View Blog Page
+![Blog Page](/docs/blogpagemobile1.png)
+![Blog Page](/docs/blogpagemobile2.png)
+![Blog Page](/docs/blogpagemobile3.png)
+### Contact Page
+![Contact Page](/docs/contactpagemobile.png)
      
 ## Target audience
 The target audience for my portfolio website is the future employers who would like to work with a web developer or IT professioinal.
