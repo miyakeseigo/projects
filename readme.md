@@ -31,23 +31,33 @@ I have originally wanted to place the contact me button in the bottom of all pag
 ![Sitemap](/docs/sitemap.jpg)
 
 ## Screenshots
+### Home Page
 ![Home Framework](/docs/home.png)
+### About Me Page
 ![About Framework](/docs/about.png)
+### Work Page
 ![Work Framework](/docs/work.png)
+### Blog Page
 ![Blog Framework](/docs/blog.png)
+### Contact Page
 ![Contact Framework](/docs/contact.png)
+### Home Page
 ![Home Page](/docs/homepage1.png)
 ![Home Page](/docs/homepage2.png)
 ![Home Page](/docs/homepage3.png)
+### About Me Page
 ![About Page](/docs/aboutpage1.png)
 ![About Page](/docs/aboutpage2.png)
+### Work Page
 ![Work Page](/docs/workpage1.png)
 ![Work Page](/docs/workpage2.png)
+### Blog Page
 ![Blog Page](/docs/blogpage1.png)
 ![Blog Page](/docs/blogpage2.png)
 ![Blog Page](/docs/blogpage3.png)
 ![Blog Page](/docs/blogpage4.png)
 ![Blog Page](/docs/blogpage5.png)
+### Contact Page
 ![Contact Page](/docs/contactpage.png)
      
 ## Target audience
