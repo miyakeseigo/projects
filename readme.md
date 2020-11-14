@@ -61,7 +61,7 @@ I have originally wanted to place the contact me button in the bottom of all pag
 ### Contact Page
 ![Contact Page](/docs/contactpage.png)
 ### Mobile View Home Page
-![Home Page](/docs/homepagemobile1.png)
+![Home Page](/docs/homepagemobile.png)
 ### Mobile View About Me Page
 ![About Page](/docs/aboutpagemobile1.png)
 ![About Page](/docs/aboutpagemobile2.png)
