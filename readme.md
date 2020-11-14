@@ -51,6 +51,7 @@ I have originally wanted to place the contact me button in the bottom of all pag
 ### Work Page
 ![Work Page](/docs/workpage1.png)
 ![Work Page](/docs/workpage2.png)
+![Work Page](/docs/workpage3.png)
 ### Blog Page
 ![Blog Page](/docs/blogpage1.png)
 ![Blog Page](/docs/blogpage2.png)
