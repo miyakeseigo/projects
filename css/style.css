@@ -30,6 +30,7 @@ input, textarea {
   margin-bottom: 15px;
 }
 
+/* button syling for work & contact pages starts here */
 button {
   padding: 10px;
   font-size: 20px;
@@ -47,6 +48,7 @@ button:hover {
   opacity: 50%;
   transition: 0.3s;
 }
+/* button syling for work & contact pages ends here */
 
 footer {
   text-align: center;
@@ -76,6 +78,7 @@ footer {
   border-radius: 500px;
 }
 
+/* contact page flexbox responsive */
 #contact-page {
   text-align: center;
   border: solid 1px;
@@ -83,6 +86,7 @@ footer {
   margin-top: 100px;
 }
 
+/* contact form syling starts here */
 #contact-form {
   display: flex;
   flex-direction: column;
@@ -133,7 +137,9 @@ textarea {
   font-weight:700;
 }
 [type="submit"]:hover { background: grey; }
+/* contact form syling ends here */
 
+/* home page flexbox responsive */
 #front-page-content {
   display: flex;
   flex-direction: column;
@@ -142,6 +148,7 @@ textarea {
   border: solid 1px;
 }
 
+/* about me page flexbox responsive */
 #about-page-content {
   width: flex;
   margin-bottom: 18px;
@@ -150,6 +157,7 @@ textarea {
   text-align: center;
 }
 
+/* work page flexbox responsive */
 #work-page-content {
   display: flex;
   align-items: center;
@@ -159,6 +167,7 @@ textarea {
   border: solid 1px;
 }
 
+/* blog page flexbox responsive */
 #blog-page-content {
   display: flex;
   align-items: center;
@@ -204,6 +213,7 @@ li a {
   text-decoration: none;
 }
 
+/* media queries sytyling starts here */
 @media screen and (max-width: 660px) {
   #blog-page-content {
     flex-direction: column;
@@ -231,6 +241,7 @@ li a {
   }
 
 }
+/* media queries sytyling ends here */
 
 .current{
   display: flex;
@@ -272,6 +283,7 @@ menu{
   padding: 0;
 }
 
+/* directly styling to the logo image in to left hand-coner */
 nav img{
   width: 80px;
   height: 80px;
