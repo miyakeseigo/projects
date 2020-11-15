@@ -1,3 +1,153 @@
+commit e6c7aebe4bcd8df6810e5527a029ef02fc8c1c1c
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Sun Nov 15 11:43:34 2020 +1100
+
+    added SRI
+
+commit 61b1ad6430549244bc072d42cf84f1141d11fee0
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Sun Nov 15 11:36:12 2020 +1100
+
+    adding comments on all html pages and css page
+
+commit d141a66cef38a55d3bf6aa8ba606cbc332fa1b1f
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Sun Nov 15 10:38:06 2020 +1100
+
+    tidied up the slides
+
+commit 0146d1c43e8ae35f71d07b69a7cb23421318d7f9
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Sun Nov 15 09:19:11 2020 +1100
+
+    fixed error homepageimangemobile
+
+commit c6b98231df2c4581d0dbbeca7bbfb52a4f967ade
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Sat Nov 14 16:47:39 2020 +1100
+
+    added mobile images to readme
+
+commit 382388c489017b009b1a9549f7037f35fe24f5eb
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Sat Nov 14 16:29:04 2020 +1100
+
+    updated readme images
+
+commit 389ebdc94259a87bca080870009642381628c825
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Sat Nov 14 16:11:02 2020 +1100
+
+    updated readme
+
+commit 561bfeff04edb327e36a67b3856461dab4ec23d5
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Sat Nov 14 16:00:08 2020 +1100
+
+    add SRI and updated readme
+
+commit dd1147f7d4034e4681b8863cdbdc1719f3c2702c
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Thu Nov 12 22:22:56 2020 +1100
+
+    blog published date updated
+
+commit 4a1be7a820a8996b453cc6a3ae3937a2a3dc9cf6
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Thu Nov 12 21:25:41 2020 +1100
+
+    nav bar updated
+
+commit 73985097a9e939a8b598537e6c7f4ba39501d087
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Thu Nov 12 21:07:19 2020 +1100
+
+    updated nav bar responsive
+
+commit 28c4b260c3e5bcd06de5cd8aee5d7eafa54248a5
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Thu Nov 12 14:23:22 2020 +1100
+
+    updated click here button in work page
+
+commit 1ebf38becb3064656da5ac1ea29410e5ab2e0c7e
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Thu Nov 12 11:04:03 2020 +1100
+
+    updated css
+
+commit 927179d0cb10bf153634af675f9ec0864c8222b7
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Thu Nov 12 06:38:18 2020 +1100
+
+    add presentation slides
+
+commit 35170ae4978c5d3011f23c8db6732746994bd47f
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Wed Nov 11 18:31:43 2020 +1100
+
+    updated css syle on contact form
+
+commit 69c41194b12b100b1d4f112c70d68f8ac211675f
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Tue Nov 10 17:21:14 2020 +1100
+
+    updated all pages
+
+commit 7e1f370b445efd1e6d7e0bc155f8d9c97b9b56dd
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Tue Nov 10 15:58:04 2020 +1100
+
+    updated readme
+
+commit d16fbe7f5b691d97878e07012438b1813a945884
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Tue Nov 10 14:14:57 2020 +1100
+
+    updated readme
+
+commit 93fe3f1448040f4c2f278e4ba43149777906f22e
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Tue Nov 10 14:12:56 2020 +1100
+
+    updated readme
+
+commit 3ea8e351e2e2c894c47eb7b0d758b7070d94a19d
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Tue Nov 10 14:07:57 2020 +1100
+
+    updated readme
+
+commit 8585affe009d43b0729b93203d53fa27566ad0a9
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Tue Nov 10 12:05:43 2020 +1100
+
+    updated readme
+
+commit 8c7eac0e58cae6bdb94225896c5a235c82d61bda
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Tue Nov 10 11:08:01 2020 +1100
+
+    updated readme
+
+commit cb4f46c7691d8dbec1cbf0dc2b38c8a1ebbabe46
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Tue Nov 10 10:57:01 2020 +1100
+
+    updated readme
+
+commit e34e267e48c42540f4ef5b0f4879ca4f7644c5c8
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Tue Nov 10 09:24:57 2020 +1100
+
+    updated readme
+
+commit 6a42592e1bc5f44107e03af268d5f9ce877aded2
+Author: miyakeseigo <miyakeseigo@gmail.com>
+Date:   Mon Nov 9 17:47:08 2020 +1100
+
+    add sitemap image
+
 commit d7b1467bf160c2c586c2195232ec0899a7987c15
 Author: miyakeseigo <miyakeseigo@gmail.com>
 Date:   Mon Nov 9 16:27:24 2020 +1100
